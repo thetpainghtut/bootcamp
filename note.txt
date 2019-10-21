@@ -1,0 +1,9 @@
+Project Needs
+-------------
+
+=> not showing students in created groups
+=> student search / report
+	=> rollcall report
+	=> project report
+=> print excel format
+=> CRUD for setup
